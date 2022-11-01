@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RalucaIgnat
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning javascript,react
+- 👀 I’m interested in manual&automation testing andfront-end development
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
