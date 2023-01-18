@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RalucaIgnat
-- 👀 I’m interested in Manual&Automation Testing and Front-End development
+- 👀 I’m interested in Front-End development and Manual&Automation Testing
 
 
 <!---
